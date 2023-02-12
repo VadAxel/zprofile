@@ -15,3 +15,5 @@ alias dl='cd ~/Downloads'
 alias ds='cd ~/Desktop'
 alias doc='cd ~/Documents'
 alias app='cd /Applications'
+
+eval "$(/opt/homebrew/bin/brew shellenv)"
